@@ -25,3 +25,5 @@ Additional packages installed:
 A copy of the repository can be initiated running `npm install`.
 
 The project has been deployed and can be tested on Netlify <https://mg-quizzical.netlify.app/>.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7141e838-a8d9-4f35-a4bd-e9189034ed26/deploy-status)](https://app.netlify.com/sites/mg-quizzical/deploys)
