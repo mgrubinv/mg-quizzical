@@ -2,7 +2,7 @@
 
 By Matthias Gruber
 
-This project was the final project of the comprehensive React course by Scrimba offered through Coursera. The project utilizes the `React` library with `Vite` project bundling. The main programming language used is `JavaScript` supported by `CSS` and `HTML` code. To generate questions the Open Trivia Database API is utilized.
+This project was the final project of the comprehensive React course by Scrimba offered through Coursera. The project utilizes the `React` library with `Vite` project bundling. The main programming language used is `JavaScript` supported by `CSS` and `HTML` code. The app is setup with responsive web design and utilizes the Open Trivia Database API to generate questions.
 
 Only basic requirements and design were predefined by the course. The web application was to be developed entirely from scratch. Furthermore I added following features on my own initiative and idea.
 
